@@ -16,4 +16,4 @@ Paragraf pada dokumen HTML dibuat dengan tag <p>. Selain itu ada tag pendukung l
 `<hr>`: Horizontal-line (untuk menambahkan garis horizontal)
 `<pre>`: Preformat (untuk menampilkan teks apa adanya tanpa pemformatan)
 Contoh paragraf
-``<p>`Isi Ini adalah tulisan yang berada dalam paragraf. Dengan tag ini makatampilan dalam web akan menjadi lebih rapi paragraf`<p>``
+``<p> Isi Ini adalah tulisan yang berada dalam paragraf. Dengan tag ini makatampilan dalam web akan menjadi lebih rapi paragraf <p>``
