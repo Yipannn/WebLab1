@@ -7,3 +7,11 @@ ini adalah tampilannya
 ![gambar](gambar/ss1.PNG)
 
 ###
+Tag Paragraf, hr, dan br
+Paragraf merupakan kumpulan dari beberapa kalimat. Pada dokumen web, paragraf biasanya
+digunakan untuk menampilkan teks atau artikel.
+Paragraf pada dokumen HTML dibuat dengan tag <p>. Selain itu ada tag pendukung lainnya seperti
+`<br>`, `<hr>`, `<pre>`.
+`<br>`: break-line (untuk berpindah ke baris selanjutnya)
+`<hr>`: Horizontal-line (untuk menambahkan garis horizontal)
+`<pre>`: Preformat (untuk menampilkan teks apa adanya tanpa pemformatan)
